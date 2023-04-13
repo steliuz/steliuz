@@ -17,9 +17,7 @@
  
 
  ### Social(Tech) Profiles 
- <p align='left'><a href="https://dev.to/steliuz25" target="_blank"><img style="background-color: #fff !important;
-    padding: 1px;
-    border-radius: 3px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/jesús-rosales-532b93158" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
+ <p align='left'><a href="https://dev.to/steliuz25" target="_blank"><img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/jesús-rosales-532b93158" target="_blank"><img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
 
  
  ---
