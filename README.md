@@ -39,3 +39,9 @@
  <p align='left'><a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
  
  ---
+ 
+ <div>
+  <h4>👨🏻‍💻 GitHub Usage stats</h4>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=steliuz&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steliuz&layout=compact" />
+</div>
