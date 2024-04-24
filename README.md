@@ -1,6 +1,8 @@
 <p>
 <a href="https://dev.to/steliuz25"><img src="https://img.shields.io/badge/dev.to-Follow-lightgrey?style=social&logo=dev.to" alt="dev.to"></a>&ensp;</p> 
 
+## 🚀 About Me
+
  ### Hi there 👋, I am Jesús Alberto Rosales
 
  ##### I am a frontend developer with experience in web and mobile application development. I am passionate about creating intuitive and attractive user interfaces. I am constantly seeking new ways to improve my programming skills and I am interested in collaborating on challenging projects
@@ -17,7 +19,7 @@
  
 
  ### Social(Tech) Profiles 
- <p align='left'><a style="background-color: #fff !important" href="https://dev.to/steliuz25" target="_blank"><img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/jesús-rosales-532b93158" target="_blank"><img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
+ <p align='left'><a href="https://dev.to/steliuz25" target="_blank"><img style="background-color: #fff !important"  height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/jesús-rosales-532b93158" target="_blank"><img style="background-color: #fff !important"  height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
 
  
  ---
