@@ -38,6 +38,7 @@
 
  ### Database 
  <p align='left'><a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+ <p align='left'><a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
  
  ---
 
