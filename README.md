@@ -21,7 +21,7 @@
  ### 
  ## 🔗 Social(Tech) Profiles 
  <p>
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesús-rosales-532b93158)
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesús-rosales-532b93158)
  </p>
  
  ---
