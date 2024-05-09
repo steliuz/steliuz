@@ -5,12 +5,14 @@
 
  ### Hi there 👋, I am Jesús Alberto Rosales
 
- ##### I am a frontend developer with experience in web and mobile application development. I am passionate about creating intuitive and attractive user interfaces. I am constantly seeking new ways to improve my programming skills and I am interested in collaborating on challenging projects
+ ##### I'm a creative web developer with over 7 years of experience, passionate about blending design and technology. I excel in frontend development, leveraging my design skills and adeptness with new technologies to craft user-friendly websites and mobile applications. 
 
- - 🔭 I’m currently working on Own projects of own ideas
- - 🌱 Always learning New technologies and refactoring for cleaner code
- - 🏗 I’m developing Mobile apps as well as pwa and desktop apps
- - 💬 Ask me about Quasar framework and Vue.js!
+ "Known for my proactive and organized approach, I'm driven by a passion for learning and a love for programming. I thrive on challenges, constantly seeking to enhance my skills and tackle new projects. Transitioning to full-stack development three years ago, I've embraced a wider array of technologies and responsibilities."
+
+ - 🔭 Known for my proactive and organized approach
+ - 🌱 I'm driven by a passion for learning and a love for programming
+ - 🏗  I thrive on challenges, Transitioning to full-stack development three years ago, I've embraced a wider array of technologies and responsibilities.
+ - 💬 Constantly seeking to enhance my skills and tackle new projects
  - 📫 How to reach me jesusrosales19@gmail.com
  
  ---
